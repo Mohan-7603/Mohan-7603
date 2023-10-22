@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohan-r-306896226" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohan-r-306896226" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://www.leetcode.com/https://leetcode.com/mohan_7603/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohan_7603/" height="30" width="40" />
   </a>
@@ -29,9 +29,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <div class="icon-container">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;" />
@@ -66,7 +65,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;" />
   </a>
-  </div>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan-7603&show_icons=true&locale=en&layout=compact" alt="mohan-7603" /></p>
