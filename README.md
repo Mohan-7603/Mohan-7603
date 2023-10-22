@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">Final year student with a knack for web development and a passion for creating digital experiences. 🌐 Ready to make an impact in the tech world. #WebDeveloper #FutureInnovator #FullStackDeveloper</h3>
-<img align = "right" alt = "Coding" width = "300" height = "300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4702js8ldvsnc6hxq1e6kazhivdmqo1vvd0p9qip9n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "right" alt = "Coding" width = "380" height = "280" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4702js8ldvsnc6hxq1e6kazhivdmqo1vvd0p9qip9n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-7603&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-7603" /> </p>
 
@@ -11,8 +11,9 @@
 - 🌱 I’m currently learning **SpringBoot, Data Strctures and Algorithms with java**
 
 - 📫 How to reach me **7603mohanram@gmail.com**
+- 
+- 📄 Know about my experiences [[file:///C:/Users/Mohan/Downloads/Mohanraj%20R_Resume_final.pdf](https://drive.google.com/file/d/1F-HlqiPIMS4Pzesxz0THMl5FxhaG9pqm/view?usp=share_link)]([file:///C:/Users/Mohan/Downloads/Mohanraj%20R_Resume_final.pdf](https://drive.google.com/file/d/1F-HlqiPIMS4Pzesxz0THMl5FxhaG9pqm/view?usp=share_link))
 
-- 📄 Know about my experiences [Resume]([file:///C:/Users/Mohan/Downloads/Mohanraj%20R_Resume_final.pdf](https://drive.google.com/file/d/1F-HlqiPIMS4Pzesxz0THMl5FxhaG9pqm/view?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
