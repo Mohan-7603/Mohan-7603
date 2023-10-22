@@ -11,9 +11,8 @@
 - 🌱 I’m currently learning **SpringBoot, Data Strctures and Algorithms with java**
 
 - 📫 How to reach me **7603mohanram@gmail.com**
-- 
-- 📄 Know about my experiences [[file:///C:/Users/Mohan/Downloads/Mohanraj%20R_Resume_final.pdf](https://drive.google.com/file/d/1F-HlqiPIMS4Pzesxz0THMl5FxhaG9pqm/view?usp=share_link)]([file:///C:/Users/Mohan/Downloads/Mohanraj%20R_Resume_final.pdf](https://drive.google.com/file/d/1F-HlqiPIMS4Pzesxz0THMl5FxhaG9pqm/view?usp=share_link))
-
+  
+- 📄 Know about my experiences [[file:///C:/Users/Mohan/Downloads/Mohanraj%20R_Resume_final.pdf](https://drive.google.com/file/d/1F-HlqiPIMS4Pzesxz0THMl5FxhaG9pqm/view?usp=share_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
