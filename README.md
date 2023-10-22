@@ -1,5 +1,4 @@
-[![MasterHead](![Uploading image.png…]()
-)]
+[![MasterHead](C:\Users\Mohan\Downloads\oie_2219714slJDnXRG.png)]
 
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">Final year student with a knack for web development and a passion for creating digital experiences. 🌐 Ready to make an impact in the tech world. #WebDeveloper #FutureInnovator #FullStackDeveloper</h3>
