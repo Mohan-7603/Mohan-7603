@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=740&t=st=1697993303~exp=1697993903~hmac=e7b81a1f7c519497a7dbeea6563c712fef3a37fa55732c74b0bc6086d36bfac0)]
 
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">Final year student with a knack for web development and a passion for creating digital experiences. 🌐 Ready to make an impact in the tech world. #WebDeveloper #FutureInnovator #FullStackDeveloper</h3>
