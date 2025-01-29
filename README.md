@@ -1,7 +1,7 @@
 ![background](https://github.com/Mohan-7603/Mohan-7603/assets/82595923/9a17c79f-38f5-44b2-831f-3bf884268c8f)
 
 <h1 align="center">Hi 👋, I'm Mohanraj</h1>
-<h3 align="center">Final year student with a knack for Full-stack development and a passion for creating digital experiences. 🌐 Ready to make an impact in the tech world. #WebDeveloper #FutureInnovator #FullStackDeveloper</h3>
+<h3 align="center">Full stack developer with a passion for creating digital experiences. 🌐 Ready to make an impact in the tech world. #WebDeveloper #FutureInnovator #FullStackDeveloper</h3>
 
 <img align="right" alt="Coding" width="380" height="280" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4702js8ldvsnc6hxq1e6kazhivdmqo1vvd0p9qip9n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
